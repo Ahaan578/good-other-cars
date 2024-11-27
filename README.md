@@ -3,8 +3,10 @@
 <h4> If buying cars and want it to be cheap make sure to buy pre owned or offers like ></h4>
 <h6>(GV80 5% P.A.
 COMPARISON RATE* OFFER> </h6>
-<img src="prefer" width="800" height="400" />
+<img src="prefer" width="400" height="200" />
 
 <h4> GV70 price: $47,050 to  $59,650</h4>
-<img src="" width="800" height="400" />
+<img src="gv70 yoo" width="400" height="200" />
+
+
 
