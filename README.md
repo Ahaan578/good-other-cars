@@ -6,7 +6,15 @@ COMPARISON RATE* OFFER> </h6>
 <img src="prefer" width="400" height="200" />
 
 <h4> GV70 price: $47,050 to  $59,650</h4>
+
 <img src="gv70 yoo" width="400" height="200" />
 
+<h4> GV80 price: from $130,000 </h4>
 
+<img src="gv80 for once" width="400" height="200" />
+
+<h4> G80 price: about $57,100.</h4>
+
+
+<img src="gv80 for once" width="400" height="200" />
 
