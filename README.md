@@ -11,8 +11,15 @@ COMPARISON RATE* OFFER> </h6>
 
 <h4> GV80 price: from $130,000 </h4>
 
+
+<img src="gv80 for once" width="400" height="200" />
+
+
 <h4> G80 price: about $57,100.</h4>
-<img src="gv80 for once" width="400" height="200" /><img src="" width="100" height="200" />
+  
+ <h4 allign="center"> This car is for people that are looking for soemthing affordable, luxurious and cheap compared to other luxurious . </h4>
+
+<img src="genesis_g80.webp" width="400" height="200" />   
 
 
 
