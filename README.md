@@ -6,4 +6,5 @@ COMPARISON RATE* OFFER></h3>
 <img src="prefer" width="800" height="400" />
 
 <h3> GV70 price: $47,050 to  $59,650</h3>
+<img src="gv90 2" width="800" height="400" />
 
